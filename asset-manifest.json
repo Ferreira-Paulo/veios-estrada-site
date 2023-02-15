@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.85768c17.css",
-    "main.js": "./static/js/main.c782d39b.js",
+    "main.js": "./static/js/main.166ab258.js",
     "static/media/veios-logo.png": "./static/media/veios-logo.47fb913c9e1b3384d7a8.png",
     "static/media/veios-head.png": "./static/media/veios-head.f8f98bd7908412eb4437.png",
     "index.html": "./index.html",
     "main.85768c17.css.map": "./static/css/main.85768c17.css.map",
-    "main.c782d39b.js.map": "./static/js/main.c782d39b.js.map"
+    "main.166ab258.js.map": "./static/js/main.166ab258.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.c782d39b.js"
+    "static/js/main.166ab258.js"
   ]
 }
